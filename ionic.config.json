@@ -1,0 +1,7 @@
+{
+  "name": "guionApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
